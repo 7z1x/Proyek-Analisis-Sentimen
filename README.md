@@ -15,10 +15,10 @@ Proyek ini berisi materi pembelajaran machine learning memulai deep learning, te
 ## 📂 Struktur Direktori
 <pre>
 📂 Submission
-├── 📂 Proyek_Analisis_Sentimen_Zulfahmi_M_Ardianto.ipynb
-├── 📄 gopay_reviews.csv
-├── 📄 ulasan_clean.csv
-└── 📄 ulasan_dengan_label.csv
+├── 📂 file_kode_scraping.ipynb
+├── 📂 file_pelatihan_model.ipynb
+├── 📄 dataset_scaraping_5000.csv
+└── 📄 requirement.txt
 </pre>
     
 ## 📖 Sumber Belajar 
