@@ -1,5 +1,5 @@
-# Proyek-Klasifikasi-gambar
-Submission Dicoding - Proyek Klasifikasi Gambar
+# Proyek-Analisis-Sentimen
+Submission Dicoding - Proyek Analisis Sentimen
 
 Selamat datang di repositori **Belajar Pengembangan Machine Learning**! Repositori ini adalah dokumentasi dari belajar pengembangan machine learning.
 Tujuan utama dibuatnya repository ini adalah untuk perjalanan belajar machine learning
