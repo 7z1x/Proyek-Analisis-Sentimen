@@ -10,14 +10,18 @@ Proyek ini berisi materi pembelajaran machine learning memulai deep learning, te
 - **Neural Network dengan Tensorflow dan Keras**
 - **Natural Language Processing**
 - **Machine Learning Workflow**
+- **Time Series**
+- **Klasifikasi Gambar**
+- **Sistem Rekomendasi**
+- **Reinforcement Learning**
+- **Konversi Model Machine Learning**
+- **The Game Changer: Generative AI**
   
 
 ## 📂 Struktur Direktori
 <pre>
 📂 Submission
-├── 📂 file_kode_scraping.ipynb
-├── 📂 file_pelatihan_model.ipynb
-├── 📄 dataset_scaraping_5000.csv
+├── 📂 project-klasifikasi-gambar-a548ybm523.ipynb
 └── 📄 requirement.txt
 </pre>
     
